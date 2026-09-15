@@ -1,0 +1,6 @@
+{
+  "name": "Ordena e Imprime - Organizador de Fotos para Impresión",
+  "description": "Organizador y maquetador de fotos en cuadrículas imprimibles para PDF y Word. Optimizado para papelerías, credenciales, catálogos y tareas escolares.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
